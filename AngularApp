@@ -1,0 +1,2 @@
+var title:any;
+console.log(title);

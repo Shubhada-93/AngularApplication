@@ -1,3 +1,5 @@
+#Description
+Demonstration of create child component and button click event String Interpolation
 # Event
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
